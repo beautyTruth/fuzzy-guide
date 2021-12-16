@@ -10,3 +10,5 @@ var teacher = "Tom";
 })(5);
 
 console.log(teacher);
+
+// watch out for type errors when using IIFEs

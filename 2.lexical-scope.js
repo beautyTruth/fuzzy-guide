@@ -13,4 +13,4 @@ function otherMovie() {
 otherMovie();
 againMovie("The Revenant");
 
-// DON'T forget that Javascript is a lexically-scoped language
+// DON'T forget that JavaScript is a lexically-scoped language
