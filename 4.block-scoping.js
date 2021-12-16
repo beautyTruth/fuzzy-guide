@@ -1,4 +1,5 @@
-// Block Scoping & var -> No Effect
+// Block Scoping & var -> there is no effect on var if it is or isn't in a block
+
 // var name = "Clint";
 
 // {
@@ -29,3 +30,5 @@ var name = "Clint";
 }
 
 console.log(name);
+
+// follow the principle LEAST EXPOSURE aka LEAST PRIVELAGE
